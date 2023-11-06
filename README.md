@@ -34,13 +34,13 @@ Makefile, projelerinizi derlemek için bir dosya oluşturacağınız yerdir.
 - [`ft_memset`](ft_memset.c)	- Belirtilen sabit bir bayt ile belleği doldurur.
 - [`ft_strlen`](ft_strlen.c)	- Bir dizinin uzunluğunu hesaplar.
 - [`ft_bzero`](ft_bzero.c)	- `s` ile gösterilen bellek alanının ilk `n` baytını sıfırlar.
-- [`ft_memcpy`](ft_memcpy.c)	- src ile gösterilen bellek alanından bellek alanına n bayt kopyalar.
-- [`ft_memmove`](ft_memmove.c)	- Bellek alanındaki src ile gösterilen n baytı bellek alanına kopyalar. Overlap durumunu doğru bir şekilde işler.
+- [`ft_memcpy`](ft_memcpy.c)	- `src` ile gösterilen bellek alanından bellek alanına `n` bayt kopyalar.
+- [`ft_memmove`](ft_memmove.c)	- Bellek alanındaki `src` ile gösterilen `n` baytı bellek alanına kopyalar. Overlap durumunu doğru bir şekilde işler.
 - [`ft_strlcpy`](ft_strlcpy.c)	- Bir diziyi belirli bir boyuta kopyalar ve belirtilen boyutu aşmayacağını garanti eder.
 - [`ft_strlcat`](ft_strlcat.c)	- Bir diziyi diğer bir diziye ekler ve sonucu belirli bir boyutla sınırlar.
 - [`ft_strchr`](ft_strchr.c)	- Bir dizide bir karakterin ilk bulunduğu adresi bulur.
 - [`ft_strrchr`](ft_strrchr.c)	- Bir dizide bir karakterin son bulunduğu adresi bulur.
-- [`ft_strncmp`](ft_strncmp.c)	- İlk n karaktere kadar karşılaştırır.
+- [`ft_strncmp`](ft_strncmp.c)	- İlk `n` karaktere kadar karşılaştırır.
 - [`ft_memchr`](ft_memchr.c)	- Belirli bir karakteri taramak için bir bellek bloğunu tarar ve bulunursa ilk bulunanın adresini döndürür.
 - [`ft_memcmp`](ft_memcmp.c)	- İki bellek alanını, belirtilen boyuta kadar bayt bayt karşılaştırır.
 - [`ft_strnstr`](ft_strnstr.c)	- Bir dizede, belirli bir boyuta kadar olan ilk alt dizi aranır.
