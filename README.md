@@ -1,5 +1,5 @@
 # Libft
-[![fatkeski's 42 stats](https://badge.mediaplus.ma/darkgray/fatkeski?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+![image](https://github.com/fbkeskin/Libft/assets/92950254/9421d666-a148-412f-aaac-a9204cd06c91)
 # Libft Introduction
 
 Libft (Library of Functions)
